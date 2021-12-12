@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+  <student>
+    <firstname>Mary</firstname>
+    <lastname>Brown</lastname>
+    <age>18</age>
+    <specialty>POIT</specialty>
+    <group>354987</group>
+  </student>
+<student>
+    <firstname>Christopher</firstname>
+    <lastname>Dominguez</lastname>
+    <age>20</age>
+    <specialty>IIT</specialty>
+    <group>657531</group>
+  </student>
+<student>
+    <firstname>Susan</firstname>
+    <lastname>Jackson</lastname>
+    <age>20</age>
+    <specialty>IIT</specialty>
+    <group>657531</group>
+  </student>
+<student>
+    <firstname>Kristy</firstname>
+    <lastname>Bennett</lastname>
+    <age>21</age>
+    <specialty>POIT</specialty>
+    <group>954331</group>
+  </student>
+</students>
